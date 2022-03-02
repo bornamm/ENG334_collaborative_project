@@ -25,7 +25,7 @@ Project thesis goes here
 
 ## Background
 
-![image caption](/Picture_1.jpg)
+![image caption](/Media/Picture_1.jpg)
 
 [link to background](/background.md)
 
