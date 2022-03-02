@@ -1,0 +1,46 @@
+---
+title: ENG 334: Collaborative Project
+---
+
+# Home
+
+## Introduction
+
+**Team members:**
+* **_Borna Mansoormoayad_** _(bmansoo1@asu.edu)_
+* **_Gigi Mendez_** _(gmmende1@asu.edu)_
+* **_Jadon Lam_** _(jplam@asu.edu)_
+* **_Kole Scott_** _(kpscott1@asu.edu)_
+
+
+## Project content
+* [Podcast](/podcast.md)
+* [Topic 1](/topic_1.md)
+* [Topic 2](/topic_2.md)
+* [Topic 3](/topic_3.md)
+
+## Bigger Picture
+
+Project thesis goes here
+
+## Background
+
+![image caption](/Picture_1.jpg)
+
+[link to background](/background.md)
+
+## Future Work (UPDATE 2)
+
+* Evaluate new topics
+* Expand the content on different aspects of the main thesis
+* Define boundries for previous topics
+* Additional media
+
+## External Links
+
+* [ASU Indigenous Land Acknowledgement](https://www.youtube.com/watch?v=u3m0VXXyPPM)
+* [Our Home On Native Land](https://native-land.ca/)
+* [Querencia in Questa, NM](https://www.youtube.com/watch?v=U3UoEJ-zZAw)
+* [Bisbee ’17: Discussion Guide](https://www.pbs.org/pov/engage/resources/bisbee-17-discussion-guide/letter-filmmaker/)
+
+## References
