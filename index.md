@@ -11,7 +11,7 @@ title: ENG 334: Collaborative Project
 * **_Gigi Mendez_** _(gmmende1@asu.edu)_
 * **_Jadon Lam_** _(jplam@asu.edu)_
 * **_Kole Scott_** _(kpscott1@asu.edu)_
-* **_Maya Elkashef _** _(melkashe@asu.edu)_
+* **_Maya Elkashef_** _(melkashe@asu.edu)_
 
 ## Project content
 * [Podcast](/podcast.md)
@@ -27,7 +27,7 @@ Project thesis goes here
 
 ![image caption](/Media/Picture_1.jpg)
 
-[link to background](/background.md)
+[link to outline](https://docs.google.com/document/d/1uBLy0dJg0OkZ1mLxljuVfG7qk0xqWdfHTNYrLZgGpqA/view)
 
 ## Future Work (UPDATE 2)
 
