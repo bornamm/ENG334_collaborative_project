@@ -18,10 +18,6 @@ title: ENG 334: Collaborative Project
 * [The Modern Day Colonialism of National Park Tourism](/Papers/Topic_1.html)
 * [Topic 2](/paper2.md)
 
-## Bigger Picture
-
-Project thesis goes here
-
 ## Background
 
 ![image caption](/Media/Picture_1.jpg)
@@ -31,7 +27,6 @@ Project thesis goes here
 ## Future Work (UPDATE 2)
 
 * Evaluate new topics
-* Expand the content on different aspects of the main thesis
 * Define boundries for previous topics
 * Additional media
 
@@ -43,3 +38,4 @@ Project thesis goes here
 * [Bisbee ’17: Discussion Guide](https://www.pbs.org/pov/engage/resources/bisbee-17-discussion-guide/letter-filmmaker/)
 
 ## References
+* [The Modern Day Colonialism of National Park Tourism](/Papers/Topic_1.html)
