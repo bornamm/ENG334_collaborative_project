@@ -14,10 +14,9 @@ title: ENG 334: Collaborative Project
 * **_Maya Elkashef_** _(melkashe@asu.edu)_
 
 ## Project content
-* [Podcast](/podcast.md)
-* [Topic 1](/topic_1.md)
-* [Topic 2](/topic_2.md)
-* [Topic 3](/topic_3.md)
+* [Podcast](https://youtu.be/nMRi8l7pdeg)
+* [Topic 1: The Modern Day Colonialism of National Park Tourism](The Modern Day Colonialism of National Park Tourism.html)
+* [Topic 2](paper2.md)
 
 ## Bigger Picture
 
