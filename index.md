@@ -15,8 +15,8 @@ title: ENG 334: Collaborative Project
 
 ## Project content
 * [Podcast](https://youtu.be/nMRi8l7pdeg)
-* [The Modern Day Colonialism of National Park Tourism](/Papers/Topic_1.html)
-* [Topic 2](/paper2.md)
+* [The Modern Day Colonialism of National Park Tourism](https://docs.google.com/document/d/1ZyByUbjGozP-kfbGFwt6WE1L0nLMHfjestxE5lM_rgA/edit?usp=sharing)
+* [Querencia, Tourism, and Arizona](https://docs.google.com/document/d/17f2h6lcPx7RY25SdnZKuewp5HHuEpkY8QXKrcqcsgzQ/edit?usp=sharing)
 
 ## Background
 
