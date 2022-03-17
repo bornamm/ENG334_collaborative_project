@@ -15,8 +15,8 @@ title: ENG 334: Collaborative Project
 
 ## Project content
 * [Podcast](https://youtu.be/nMRi8l7pdeg)
-* [Topic 1: The Modern Day Colonialism of National Park Tourism](The Modern Day Colonialism of National Park Tourism.html)
-* [Topic 2](paper2.md)
+* [The Modern Day Colonialism of National Park Tourism](/The Modern Day Colonialism of National Park Tourism.html)
+* [Topic 2](/paper2.md)
 
 ## Bigger Picture
 
