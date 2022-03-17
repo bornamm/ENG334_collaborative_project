@@ -38,4 +38,4 @@ title: ENG 334: Collaborative Project
 * [Bisbee ’17: Discussion Guide](https://www.pbs.org/pov/engage/resources/bisbee-17-discussion-guide/letter-filmmaker/)
 
 ## References
-* [The Modern Day Colonialism of National Park Tourism](/Papers/Topic_1.html)
+* [Works Cited](/Papers/citation.html)
